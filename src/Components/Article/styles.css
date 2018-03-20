@@ -1,0 +1,10 @@
+.article {
+    margin-bottom: 10px;
+}
+.article .date {
+    font-weight: bold
+}
+
+.article .readmore {
+    text-align: right
+}

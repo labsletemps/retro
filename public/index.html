@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+    <meta name="robots" content="noindex noarchive">
+    <meta name="theme-color" content="#930025">
+    <link rel="shortcut icon" href="https://assets.letemps.ch/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon"
+    />
+    <meta name="google-site-verification" content="z0tBKnrS4WrJ-Qq_7-W8j40X5-3Lnvlb7lf1a8FnfTE" />
+    <meta name="p:domain_verify" content="d0baf6f701271f1d36972e356dcfb112" />
+    <meta property="fb:pages" content="319393291423771" />
+    <meta property="fb:app_id" content="100160886777903" />
+    <meta name="theme-color" content="#930025" />
+    <meta name="description" content="Le Temps, site d&#039;information suisse." />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="https://assets.letemps.ch/sites/default/files/default-big.png" />
+    <meta property="og:url" content="https://www.letemps.ch/front" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="article" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Le site du Temps</title>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'      
+}); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-TQ2B8Q');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQ2B8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+    <script type='text/javascript'>
+      var _sf_async_config = _sf_async_config || {};
+      /** CONFIGURATION START **/
+      _sf_async_config.uid = 61154; //CHANGE THIS
+      _sf_async_config.domain = 'letemps.ch'; //CHANGE THIS
+      _sf_async_config.useCanonical = true;
+      /** CONFIGURATION END **/
+      (function () {
+        function loadChartbeat() {
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+          document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function () {
+            oldonload();
+            loadChartbeat();
+          };
+      })();
+    </script>
+  </body>
+</html>

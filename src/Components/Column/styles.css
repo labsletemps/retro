@@ -1,0 +1,16 @@
+.column {
+    padding: 0 16px;
+    width: 175px;
+}
+
+.bgColored {
+    margin-top: 30px;
+    background-color: #CCCC99;
+    padding: 5px;
+}
+
+.address {
+    font-size: 13px;
+    padding: 420px 16px 16px;
+    font-family: Times;
+}

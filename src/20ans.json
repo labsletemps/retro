@@ -1,0 +1,258 @@
+[
+    {
+        "section": "A la Une ",
+        "articles": [
+            {
+                "title": "Comment j'ai fabriqué ma montre en 8 heures",
+                "chapeau": null,
+                "dateline": "grand format",
+                "publication_date": "Jeudi 17 mars 2016 à 14:53",
+                "link": "/node/979093"
+            },
+            {
+                "title": "Un grand besoin d’équité non d’égalité",
+                "chapeau": "<p>Une étude de Nature anéantit l’idée selon laquelle les inégalités seraient perçues négativement par l’homme. On confond équité et égalité. Retour sur ce que le Pape appelle «la racine du mal social»</p>\r\n",
+                "dateline": "Analyse",
+                "publication_date": "Mercredi 24 mai 2017 à 13:17",
+                "link": "/node/984752"
+            },
+            {
+                "title": "Tennis",
+                "chapeau": "<p>tennis&amp;sport&nbsp;tennis sport&nbsp;tennis sport&nbsp;tennis sport&nbsp;tennis sport&nbsp;tennis sport&nbsp;tennis sport&nbsp;tennis sport&nbsp;</p>\r\n",
+                "dateline": "L'ŒIL DU COURT",
+                "publication_date": "Lundi 12 juin 2017 à 11:08",
+                "link": "/node/984753"
+            },
+            {
+                "title": "Le scandale des «Panama Papers», secousse planétaire",
+                "chapeau": "<p>sdfsdf <strong>sdfsdf</strong></p>\r\n",
+                "dateline": null,
+                "publication_date": null,
+                "link": "/node/982714"
+            }
+        ]
+    },
+    {
+        "section": "Suisse",
+        "articles": [
+            {
+                "title": "«Il faut une banque de données commune pour les Renseignements»",
+                "chapeau": "<p>Le patron du SRC Markus Seiler insiste sur le besoin d’augmenter les moyens pour traquer les filières djihadistes et faire face à la menace terroriste</p>",
+                "dateline": "Grande interview",
+                "publication_date": "Samedi 09 avril 2016 à 07:38",
+                "link": "/node/983473"
+            },
+            {
+                "title": "Les cantons rejettent l’initiative pro-routes «Vache à lait»",
+                "chapeau": "<p>Les 26 cantons rejettent l’initiative «Vache à lait» sur le financement du trafic routier, soumise au vote le 5&nbsp;juin 2016. Ils défendent en revanche le Fonds pour les routes nationales et le trafic d’agglomération (Forta).</p>\r\n",
+                "dateline": "Transports",
+                "publication_date": "Mardi 01 novembre 2016 à 11:16",
+                "link": "/node/983683"
+            },
+            {
+                "title": "Refus de serrer la main: «On ne peut faire une règle d'une source obscure de la Toile»",
+                "chapeau": "<p>Les deux élèves bâlois qui refusent de serrer la main de leur enseignante ont tiré ce précepte d'un prêche sur internet. Réaction du président de l'Union vaudoise des associations musulmanes, Pascal Gemperli.</p>",
+                "dateline": "Religion",
+                "publication_date": "Mardi 01 novembre 2016 à 06:16",
+                "link": "/node/983560"
+            }
+        ]
+    },
+    {
+        "section": "Économie",
+        "articles": [
+            {
+                "title": "Le marché chinois fait toujours rêver les Suisses",
+                "chapeau": "<p>En panne la Chine? Pas pour les entrepreneurs suisses qui continuent d’investir et affichent la même sérénité que les dirigeants chinois sur l’avenir du pays</p>",
+                "dateline": "Asie",
+                "publication_date": "Dimanche 10 avril 2016 à 19:12",
+                "link": "/node/983614"
+            },
+            {
+                "title": "Le tabloïd «Daily Mail» envisagerait de racheter Yahoo! ",
+                "chapeau": "<p>La société mère du journal britannique mène des discussions avec «plusieurs» fonds d'investissement. Les candidats au rachat de Yahoo! ont jusqu'au 18 avril pour faire une offre</p>",
+                "dateline": "Technologies",
+                "publication_date": "Lundi 11 avril 2016 à 07:58",
+                "link": "/node/983665"
+            },
+            {
+                "title": "Gategroup bientôt racheté par le groupe chinois HNA",
+                "chapeau": "<p>Gategroup devrait passer en mains chinoises. Le groupe HNA a lancé une offre publique d'achat valorisant le spécialiste zurichois des services à bord à 1,4 milliard de francs</p>",
+                "dateline": "Services",
+                "publication_date": "Lundi 11 avril 2016 à 08:50",
+                "link": "/node/983647"
+            },
+            {
+                "title": "Billy Strayhorn, l’histoire  d’un faux double",
+                "chapeau": "<p>Alter ego de Duke Ellington, le pianiste  et compositeur sort peu à peu de l’ombre  de son génial mentor</p>",
+                "dateline": "Jazz",
+                "publication_date": "Vendredi 04 décembre 2015 à 18:42",
+                "link": "/node/350591"
+            },
+            {
+                "title": "Le journalisme a-t-il encore un avenir dans le journalisme?",
+                "chapeau": null,
+                "dateline": "blogs",
+                "publication_date": "Mercredi 08 mars 2017 à 09:50",
+                "link": "/node/984666"
+            }
+        ]
+    },
+    {
+        "section": "Culture",
+        "articles": [
+            {
+                "title": "Le Théâtre 2.21 offre une carte blanche à la rappeuse lausannoise La Gale",
+                "chapeau": "<p>La chanteuse invite ses amis pour trois soirées de reprises de standards qu'on entend le soir au fond des bars</p>",
+                "dateline": "Musique",
+                "publication_date": "Dimanche 10 avril 2016 à 17:56",
+                "link": "/node/983539"
+            },
+            {
+                "title": "Des fantômes d'opéra lancent en beauté le festival Steps",
+                "chapeau": "<p>Le chorégraphe suisse Thomas Hauert entraîne la Candoco dance Company, troupe formée en partie de danseurs handicapés, dans une rêverie merveilleuse, à voir au Théâtre de l'Equilibre à Fribourg le 8 avril, puis à Meyrin le 14 avril, avant Vevey, Berne et Neuchâtel</p>",
+                "dateline": "Danse",
+                "publication_date": "Dimanche 10 avril 2016 à 17:57",
+                "link": "/node/983371"
+            },
+            {
+                "title": "Bryan Ferry, qu’avez-vous fait de vos rêves d’enfant ?",
+                "chapeau": "<p>L’ancien leader du groupe Roxy Music se confie: «Au départ, je voulais devenir peintre. C’était cela, mon rêve»</p>",
+                "dateline": "Confidences",
+                "publication_date": "Vendredi 08 avril 2016 à 07:00",
+                "link": "/node/983038"
+            }
+        ]
+    },
+    {
+        "section": "Société",
+        "articles": [
+            {
+                "title": "Geneviève Anthamatten, greffée et militante",
+                "chapeau": "<p>La Suisse et l’Allemagne sont les deux seuls pays d’Europe où les donneurs d’organes ne le sont pas par défaut. Geneviève Anthamatten, greffée du rein et du pancréas milite pour que la transplantation s’implante dans les mentalités</p>",
+                "dateline": "Portrait",
+                "publication_date": "Dimanche 10 avril 2016 à 19:54",
+                "link": "/node/983224"
+            },
+            {
+                "title": "Ce que disent de vous les citations que vous partagez sur Facebook",
+                "chapeau": "<p>On les utilise depuis la nuit des temps, et avec les réseaux sociaux elles circulent plus que jamais. Quel est le pouvoir des citations et que représentent-elles?</p>",
+                "dateline": "Psychologie",
+                "publication_date": "Dimanche 10 avril 2016 à 08:22",
+                "link": "/node/983314"
+            },
+            {
+                "title": "Les attentats et le grand retour de Thomas Hobbes",
+                "chapeau": "<p>Jusqu’où sacrifier nos libertés au nom de la sécurité? Le philosophe anglais répond</p>",
+                "dateline": "Futur antérieur",
+                "publication_date": "Vendredi 08 avril 2016 à 20:56",
+                "link": "/node/982489"
+            }
+        ]
+    },
+    {
+        "section": "Lifestyle",
+        "articles": [
+            {
+                "title": "Jus détox du terroir à l’accent British",
+                "chapeau": "<p>Fit’n’Tasty est un projet de jus frais ultra-vitaminés 100% made in Switzerland, lancé et fabriqué à Ecublens par Wendy Vanhonacker</p>",
+                "dateline": "Un jour, une idée",
+                "publication_date": "Dimanche 10 avril 2016 à 17:51",
+                "link": "/node/983152"
+            },
+            {
+                "title": "Avec l’iPhone SE, Apple veut surtout se battre sur les prix",
+                "chapeau": "<p>Le dernier iPhone, croisement entre les modèles 5 et 6S, est disponible dès 479 francs</p>",
+                "dateline": "Test",
+                "publication_date": "Lundi 11 avril 2016 à 06:29",
+                "link": "/node/982897"
+            },
+            {
+                "title": "Les anciennes prisons de Lyon libèrent l’esprit",
+                "chapeau": "<p>Vidés en 2009 de leur population carcérale, les pénitenciers Saint-Paul et Saint-Joseph abritent désormais l’Université catholique. Cette subtile reconversion par le savoir est une réussite</p><p/>",
+                "dateline": "Architecture",
+                "publication_date": "Vendredi 08 avril 2016 à 17:55",
+                "link": "/node/983404"
+            }
+        ]
+    },
+    {
+        "section": "Sciences",
+        "articles": [
+            {
+                "title": "Le drone, l’allié ambigu des humanitaires",
+                "chapeau": "<p>Le monde humanitaire s’enthousiasme pour les drones. Les robots volants facilitent les opérations de secours. Des entreprises innovent dans ce secteur. Mais certains usages de cette technologie posent question</p>",
+                "dateline": "Technologies",
+                "publication_date": "Lundi 11 avril 2016 à 07:17",
+                "link": "/node/981892"
+            },
+            {
+                "title": "Comment j'ai fabriqué ma montre en 8 heures",
+                "chapeau": null,
+                "dateline": "grand format",
+                "publication_date": "Jeudi 17 mars 2016 à 14:53",
+                "link": "/node/979093"
+            },
+            {
+                "title": "Les livres de la semaine: la sélection d'Eléonore!",
+                "chapeau": "<p>Dans notre sélection de la semaine: un homme dont la vie ne tourne plus qu'autour de son lièvre, à découvrir avec «Le lièvre de Vatanen». Et quelques pistes pour tenter de comprendre les derniers attentats de Bruxelles, en (re)lisant l'intégrale des «Démons», de Dostoïevski.</p>\r\n\r\n<p>Vous aussi soumettez-nous vos livres préférés sur <a href=\"http://www.facebook.com/letemps.ch\">Facebook</a></p>\r\n",
+                "dateline": null,
+                "publication_date": "Mercredi 10 mai 2017 à 07:24",
+                "link": "/node/983545"
+            },
+            {
+                "title": "A La Chaux-de-Fonds, un musée dédié aux civilisations de l’islam",
+                "chapeau": "<p>Présidente de l’association culturelle des femmes musulmanes de Suisse, Nadia Karmous réalise le rêve de sa vie: grâce au financement de donatrices du Golfe, elle ouvrira le 27 mai à La Chaux-de-Fonds, sur le Pod, un espace public qui raconte 15 siècles d’islam</p>",
+                "dateline": "Religions",
+                "publication_date": "Mercredi 12 avril 2017 à 08:25",
+                "link": "/node/983311"
+            },
+            {
+                "title": "Le scandale des «Panama Papers», secousse planétaire",
+                "chapeau": "<p>sdfsdf <strong>sdfsdf</strong></p>\r\n",
+                "dateline": null,
+                "publication_date": null,
+                "link": "/node/982714"
+            },
+            {
+                "title": "TItre Slider",
+                "chapeau": "<p>Chapeau</p>\r\n",
+                "dateline": null,
+                "publication_date": "Vendredi 19 mai 2017 à 13:55",
+                "link": "/node/984750"
+            },
+            {
+                "title": "19 octobre: 24 heures dans l'actualité en images  ",
+                "chapeau": null,
+                "dateline": null,
+                "publication_date": "Mercredi 19 avril 2017 à 14:44",
+                "link": "/node/133058"
+            },
+            {
+                "title": "L’affaire Musa bientôt à la Cour européenne des droits de l’homme?",
+                "chapeau": null,
+                "dateline": "blogs",
+                "publication_date": "Mardi 28 mars 2017 à 07:50",
+                "link": "/node/984737"
+            },
+            {
+                "title": "Le Pont Mirabeau",
+                "chapeau": "<p><span>Il est grand temps de rallumer les étoiles, écrivait Guillaume Apollinaire. Du rêve, de la liberté et des mots, à mettre entre vos oreilles&nbsp;</span></p>\r\n",
+                "dateline": null,
+                "publication_date": "Mercredi 27 avril 2016 à 09:13",
+                "link": "/node/983245"
+            },
+            {
+                "title": "Le Pont Mirabeau",
+                "chapeau": "<p><span>Il est grand temps de rallumer les étoiles, écrivait Guillaume Apollinaire. Du rêve, de la liberté et des mots, à mettre entre vos oreilles&nbsp;</span></p>\r\n",
+                "dateline": null,
+                "publication_date": "Mercredi 27 avril 2016 à 09:13",
+                "link": "/node/983245"
+            }
+        ]
+    },
+    {
+        "section": "Nos dossiers",
+        "articles": []
+    }
+]

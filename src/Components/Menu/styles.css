@@ -1,0 +1,16 @@
+.menu ul {
+    margin:0;
+    padding: 0 16px;
+    list-style: none;
+}
+
+.menu ul li {
+    margin:0;
+    text-transform: uppercase;
+    margin: 16px 0;
+}
+
+.menu ul li a {
+    color: rgb(153, 0, 51);
+    font-weight: bold;
+}
